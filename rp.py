@@ -1,6 +1,7 @@
 import http.client
 import json
 import random
+import time
 
 video_id = input("Please put the video ID: ")
 
