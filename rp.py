@@ -1223,7 +1223,7 @@ headers = {
   'Sec-Fetch-Dest': 'empty',
   'Sec-Fetch-Mode': 'cors',
   'Sec-Fetch-Site': 'same-origin',
-  'Referer': f'https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1&item_id={videoID}',
+  'Referer': f'https://www.tiktok.com/foryou?is_copy_url=1&is_from_webapp=v1&item_id={video_id}',
   'Connection': 'keep-alive',
   'TE': 'trailers'
 }
